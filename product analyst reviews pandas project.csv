@@ -1,0 +1,21 @@
+Review_ID,Product,Rating,Review,Sentiment
+1,Headphones,5,Excellent sound,Positive
+2,Shoes,4,Comfortable,Positive
+3,Headphones,4,Good quality,Positive
+4,Watch,2,Poor battery,Negative
+5,Shoes,5,Very nice,Positive
+6,Watch,3,Average product,Neutral
+7,Headphones,5,Amazing sound,Positive
+8,Shoes,2,Poor quality,Negative
+9,Watch,4,Good design,Positive
+10,Headphones,1,Not good,Negative
+11,Phone Case,4,Fits perfectly,Positive
+12,Backpack,5,Lots of space,Positive
+13,Phone Case,3,Average quality,Neutral
+14,Headphones,2,Sound is unclear,Negative
+15,Backpack,4,Useful for travel,Positive
+16,Watch,5,Great battery,Positive
+17,Shoes,3,Size is okay,Neutral
+18,Phone Case,1,Broke quickly,Negative
+19,Backpack,2,Zip is stuck,Negative
+20,Headphones,4,Clear audio,Positive
